@@ -1,5 +1,5 @@
-# Emanote Template
+# ToA --- Cooler Name Pending
 
-A Git repo for users to get started with [Emanote], with GitHub Pages deployment. See [[README|README]].
+##Sessions
+* 11 Jan 2022
 
-[Emanote]: https://note.ema.srid.ca/
